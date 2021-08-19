@@ -1,0 +1,22 @@
+.navbar {
+    background: linear-gradient(to right, #250609, #4b1928);
+    color: #310709;
+}
+
+.navbar-brand {
+    font-family:unset;
+}
+
+.btn-danger:hover {
+    background-color: #690707;
+    border-color: #a10d19;
+}
+
+.jumbotron {
+    background-color:#501124;
+    color: white;
+}
+
+.container-bg {
+    background: #2e0408;
+}
